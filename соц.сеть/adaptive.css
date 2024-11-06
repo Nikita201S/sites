@@ -1,0 +1,576 @@
+
+@media screen and (max-width: 1400px) {
+
+    /*  onas */
+    
+    .main {
+        align-items: center;
+        flex-direction: column;
+    }
+
+
+    .cobr {
+        width: 70%;
+        margin-bottom: 50px;
+    }
+
+    .cont {
+        margin: 0;
+    }
+
+
+
+
+
+
+
+    .adr {
+        padding: 0 auto;
+        /* margin: 0 auto; */
+        justify-content: center;
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .ad {
+        text-align: center;
+        font-size: 24px;
+        color: #16354D;
+    }
+
+    .map {
+    display: flex;
+    justify-content: center;
+    }
+
+
+
+}
+
+@media screen and (max-width: 1200px) {
+
+/* login */
+
+
+.window {
+        
+    width: 40%;
+}
+
+
+}
+
+
+
+
+@media screen and (max-width: 1100px) {
+
+    /* sms */
+    
+    
+    .osn {
+        
+        width: 95%;
+        
+    }
+
+    .zagsob {
+        display: none;
+    }
+
+    
+    .clsms {
+        display: none;
+    }
+
+
+    .iconuser {
+        width: 65%;
+        margin-right: 0%;
+        
+    }
+
+    .osnmenu {
+        width: 100%;
+    }
+
+    .leftmenu {
+        width: 10%;
+    }
+
+
+    .lmsms {
+        justify-content: center;
+        margin: 10% 0%;
+    }
+
+
+    
+
+    /* lichka */
+
+    .data {
+        justify-content: center;
+        margin: 50px 0 100px 0;
+    }
+
+    .post {
+        flex-direction: column-reverse;
+    }
+
+
+    .infa {
+        width: 100%;
+    }
+
+
+    .txt_post {
+        padding: 3% 2%;
+    }
+
+
+    .im_p {
+        margin: 0 auto;
+    }
+
+
+
+
+
+
+
+
+
+    /* blog */
+
+
+    .post_B {
+        width: 90%;
+    }
+
+
+    /* onas */
+
+
+    .name {
+        font-size: 16px;
+    }
+
+    .odin {
+        font-size: 14px;
+    }
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 900px) {
+
+    /* login */
+    
+    
+    .window {
+            
+        width: 50%;
+    }
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 768px) {
+    
+    .menu {
+        flex-direction: column;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .log5 {
+        width: 20%;
+        /* margin-left: 2%; */
+    }
+
+
+        
+    
+    /* login */
+
+
+    .window {
+        
+        width: 60%;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* sms */
+
+    .txtsms{
+        font-size: 14px;
+    }
+
+
+    .l {
+        font-size: 14px;
+    }
+
+
+    .r {
+        font-size: 14px;
+    }
+
+    .wrs {
+        height: 30%;
+    }
+
+    .iconuser {
+        width: 85%;
+    }
+
+
+    .smska1 {
+        width: 45%;
+    }
+
+    .smska2 {
+        width: 45%;
+    }
+
+    .osn {
+        width: 100%;
+    }
+
+
+
+
+
+    /* личка */
+
+    .avatar {
+        width: 30%;
+    }
+
+    .im_p {
+        width: 30%;
+    }
+
+
+    .ravn {
+        align-items: center;
+        flex-direction: column;
+    }
+
+
+    .dezign {
+        margin-bottom: 5%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .level {
+        margin-bottom: 5%;
+    }
+
+
+    .post {
+        width: 85%;
+    }
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+    .post_B {
+        width: 95%;
+    }
+
+
+
+
+
+
+
+
+
+    .cont {
+        align-items: center;
+        flex-direction: column;
+    }
+
+
+    .contact {
+        width: 70%;
+        margin-bottom: 50px;
+    }
+
+    .odin {
+        text-align: center;
+    }
+
+
+    .name {
+        font-size: 20px;
+        text-align: center;
+    }
+
+   .adr {
+    width: 80%;
+   }
+
+   
+
+}
+
+
+
+
+@media screen and (max-width: 540px) {
+
+
+    .panel_post_B {
+        font-size: 18px;
+    }
+
+    .text_v_poste {
+        font-size: 16px;
+        padding: 0 2%;
+    }
+
+    .but_V_B {
+        font-size: 16px;
+    }
+
+    .but_V_B_kom {
+        font-size: 16px;
+    }
+
+    .but_V_B_sob {
+        font-size: 16px;
+    }
+
+    .but_V_B_like {
+        font-size: 16px;
+    }
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 425px) {
+
+    /* login */
+    
+    
+    .window {
+            
+        width: 90%;
+    }
+    
+    
+    /* sms */
+
+
+    .smska1 {
+        width: 80%;
+    }
+
+    .smska2 {
+        width: 80%;
+    }
+
+    
+
+    .txtsms {
+        text-align: center;
+        justify-content: center;
+        margin: 0 auto;
+        display: flex;
+        width: 80%;
+        font-size: 12px;
+    }
+
+
+    .kart {
+        width: 90%;
+    }
+
+    .kart2 {
+        width: 65%;
+    }
+
+
+    /* личка */
+
+
+
+    .post {
+        width: 99%;
+        
+    }
+
+    .zag_l {
+        font-size: 28px;
+    }
+
+    .panel_post {
+        font-size: 18px;
+    }
+
+    .txt_post {
+        font-size: 14px;
+    }
+
+
+
+
+
+    /* блог */
+
+    .post_B {
+        width: 99%;
+    }
+
+
+    .but_V_B_kom:hover {
+        font-size: 16px;
+    }
+
+    .but_V_B_sob:hover {
+        font-size: 16px;
+    }
+
+    .but_V_B_like:hover {
+        font-size: 16px;
+    }
+
+
+
+    /* блог */
+
+
+    
+
+    .contact {
+        width: 100%;
+    }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
